@@ -1,0 +1,55 @@
+body.singin-body {
+    background: linear-gradient(to bottom, #f45460 33%,#f88d4e 100%);
+    background-repeat: no-repeat;
+    height: 10rem;
+}
+
+.container.singin-container {
+    margin-top: 8%;
+}
+
+.card.signin-card {
+    padding: 40x 0x 20x;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.084);
+    -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.084);
+    -moz-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.084);
+    text-align: center;
+}
+
+.card.signin-card h3 {
+    margin-top: 5%;
+    border-radius: 30px;
+}
+
+.card.signin-card p {
+    color: rgb(120, 120, 120);
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 2%;
+}
+
+.form-singin-card {
+  margin-top: 4%;
+}
+
+.form-singin-card input {
+    border: none;
+    border-bottom: 1px solid rgba(0,0,0,.15);
+    padding-left: 0px;
+}
+
+.btn-primary{
+    background:linear-gradient(to bottom, #f45460 33%,#f88d4e 100%);
+    border: none;
+    border-radius: 40px;
+    font-size: 16px;
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.registerLink {
+    color: #f45460 !important;
+    font-size: 16px !important;
+}
