@@ -1,5 +1,5 @@
 body.singin-body {
-    background: linear-gradient(to bottom, #f45460 33%,#f88d4e 100%);
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
     background-repeat: no-repeat;
     height: 10rem;
 }
@@ -20,6 +20,7 @@ body.singin-body {
 .card.signin-card h3 {
     margin-top: 5%;
     border-radius: 30px;
+    color: #0f91b8;
 }
 
 .card.signin-card p {
@@ -40,16 +41,16 @@ body.singin-body {
 }
 
 .btn-primary{
-    background:linear-gradient(to bottom, #f45460 33%,#f88d4e 100%);
+    background: linear-gradient(141deg, #1fc8db 40%, #2cb5e8 75%);
     border: none;
     border-radius: 40px;
     font-size: 16px;
     width: 150px;
     margin: 0 auto;
-    margin-top: 3%;
+    margin-top: 2%;
 }
 
 .registerLink {
-    color: #f45460 !important;
+    color: #0f91b8 !important;
     font-size: 16px !important;
 }
